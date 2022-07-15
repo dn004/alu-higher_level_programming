@@ -7,7 +7,3 @@ def add_tuple(tuple_a=(), tuple_b=()):
     sum2 = (tuple_a[1] if ade > 1 else 0) + (tuple_b[1] if bisi > 1 else 0)
 
     return (sum1, sum2)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
