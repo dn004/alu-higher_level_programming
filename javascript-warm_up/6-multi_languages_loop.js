@@ -1,7 +1,7 @@
 #!/usr/bin/node
 
+const stringArray = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
 
-const stringArray ['C is fun','Python is cool','JavaScript is amazing'];
-for (let i = 0; i < stringArray.length; i++){
-	console.log(quick[i]);
-};
+for (const string of stringArray) {
+  console.log(string);
+}
